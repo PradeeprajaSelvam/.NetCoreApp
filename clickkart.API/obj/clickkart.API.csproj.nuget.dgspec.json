@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prade\\clickkart\\clickkart.API\\clickkart.API.csproj": {}
+    "C:\\Users\\prade\\clickkart\\clickkart.api\\clickkart.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prade\\clickkart\\clickkart.API\\clickkart.API.csproj": {
+    "C:\\Users\\prade\\clickkart\\clickkart.api\\clickkart.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prade\\clickkart\\clickkart.API\\clickkart.API.csproj",
+        "projectUniqueName": "C:\\Users\\prade\\clickkart\\clickkart.api\\clickkart.API.csproj",
         "projectName": "clickkart.API",
-        "projectPath": "C:\\Users\\prade\\clickkart\\clickkart.API\\clickkart.API.csproj",
+        "projectPath": "C:\\Users\\prade\\clickkart\\clickkart.api\\clickkart.API.csproj",
         "packagesPath": "C:\\Users\\prade\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prade\\clickkart\\clickkart.API\\obj\\",
+        "outputPath": "C:\\Users\\prade\\clickkart\\clickkart.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prade\\AppData\\Roaming\\NuGet\\NuGet.Config",

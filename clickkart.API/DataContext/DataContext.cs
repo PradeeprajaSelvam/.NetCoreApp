@@ -9,5 +9,6 @@ namespace clickkart.API.DataAccess
     {
     }
         public DbSet<Value> values{get;set;}
+        public DbSet<UserModel> Users{get;set;}
     }
 }

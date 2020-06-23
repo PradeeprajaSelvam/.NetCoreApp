@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jSBNhhsXVe71HoSv2a7aNWmLBh2xJ3ZACe7u4dpaOBFCm5tZLQxb09zLdM3URUCh7/nhfilXMomtbtBrhrWJXw==",
+  "dgSpecHash": "RDtU98f0u5GQ/HlXJ3fIU6Sl0l7nH5LJnH4eSTQ/NQAFAAdqFIKas0CuywM4aH3En3EL3BVOhoMTGAE6ww7TOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\prade\\clickkart\\clickkart.API\\clickkart.API.csproj",
+  "projectFilePath": "C:\\Users\\prade\\clickkart\\clickkart.api\\clickkart.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\prade\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
